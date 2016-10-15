@@ -32,3 +32,24 @@ Chaque élément `elt` du calcul étant potentiellement remplacé par `f(elt)`, 
 Lorsqu'une troupe tombe à 0 de nombre, son bonus aux dégâts est ramené à 0.
 
 # Combat terrestre - données
+
+*Les valeurs ci-dessous ne sont pas les valeurs finales, et les tests d'équilibrage rapides ne sont pas finis!*
+
+Dégâts:
++ Blindés
+    - Anti-blindé: 0.5
+    - Anti-aviation: 0.1
+    - Anti-artillerie: 0.75
++ Aviation
+    - Anti-blindé : 0.75
+    - Anti-aviation : 0.4
+    - Anti-artillerie : 0.25
++ Artillerie
+    - Anti-blindé : 0.1
+    - Anti-aviation : 0.9
+    - Anti-artillerie : 0.1
+
+
+Fonction:
++ Exponentielle : `bonus += nbr * 2 ^ (jour - 10)`
++ Logarithmique : `bonus += nbr * log2(jour + 2) /4`
