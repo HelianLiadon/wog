@@ -1,0 +1,21 @@
+# Background général
+## Introduction
+
+L'univers connu est dominé par les grands consortiums militaro-industriels. Ils ne disposent pas de pouvoir politique officiel, mais aucun gouvernement n'oserait aller contre leurs intérêts, de peur de perdre l'accès à l'armement et à la technologie nécessaire au maintien de leur maigre pouvoir. Les consortiums n'autorisent en effet personne à acquérir une puissance suffisante pour se passer d'eux. Ils n'autorisent pas non plus la guerre dans les secteurs du Cœur Industriel, où se déroule leurs productions et leurs activités de recherches technologiques.
+
+Les ambitieux en manque de pouvoir se tournent donc généralement vers les secteurs encore vierge de l'univers pour essayer de grappiller, à moindre coût, quelques lambeaux de pouvoir. Là-bas les parties en présence sont assez loin des plus puissants empires pour que leur force ne se fasse que marginalement ressentir et assez loin, également, du Cœur Industriel pour que les consortiums s’abstiennent de toute exigence pacificatrice. Les factions qui se lancent dans la conquête partent donc de presque rien, mais peuvent espérer gagner le contrôle d'un territoire nouveau avant que des connections plus fermes ne soient établies avec le reste de l'univers.
+
+C'est dans un de ces secteur que le jeu se déroule.
+
+## Factions
+### Heliade
+
+Pour les jeunes loups remplis d'assurance, d'impatience et d'absolus, les secteurs connus de l'univers n'offrent que peu d'occasion d'assouvir leurs ambitions. La découverte d'un nouveau quadrant propice à la conquête est donc une occasion en or de réclamer un territoire loin des vieillards surpuissants qui décident généralement du destin de l'univers.
+
+L'Heliade est une meute de jeunes gens fougueux, décidé à établir férocement leur autorité sur ce quadrant et à y prouver la supériorité de leurs idées novatrices.
+
+### Fureur
+
+Fureur est une organisation idéaliste dont le but est de mettre un terme à la suprématie des consortiums. Leur espoir est d'arriver à rassembler suffisamment de secteurs dans différents quadrants inexplorés pour pouvoir être auto-suffisants.
+
+Les consortiums ne prennent pas cette concurrence très au sérieux, et Fureur compte en profiter à leur dépend, bien que l'organisation soit encore totalement dépendante de l'approvisionnement venant du Cœur Industriel.

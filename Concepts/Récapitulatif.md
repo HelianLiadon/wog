@@ -30,42 +30,42 @@
 * Koko aime les stats, il en veut partout.
 
 		
-## Diplomatie
+# Diplomatie
 
-### Formation des factions
+## Formation des factions
 * Semi-liberté de choix pour les joueurs
 * Blocage des factions trop puissantes
 * Bouton "inscris moi dans la faction qui en a le plus besoin"
 
-### Factions
+## Factions
 * 5 factions
 * 2 super-factions
   * Pour changer de super-faction il faut l'acceptation des membres de la super-faction rejointe
 
-### Lead
+## Lead
 * Un joueur est élu (réélection) tous les 20 jours, il a les pouvoirs de décision quant à la faction
 * Les joueurs changent leur vote quand bon leur semble 
 
-### Gain du jeu
+## Gain du jeu
 * Il existe différentes conditions de victoire
   * Une super faction contrôle X% de l'univers
   * Contrôle de certains lieux/objets particuliers
   * Construction d'un bâtiment spécial
 
-### Récompenses
+## Récompenses
 * Les 2 meilleurs factions de la super-faction victorieuse ont un gain, les autres pas
 * Les gains sont distribués aux joueurs et non aux factions
 
 
-### TODO
+## TODO
 * Interactions entre joueurs
 * Association de joueurs
 * Association de factions
 	
 	
-## Gameplay
+# Gameplay
 	
-### Géographie
+## Géographie
 * Galaxie de systèmes reliés par des portes de saut
   * Carte à déterminer (NB. Elle dépend du gameplay pour être intéressante)
 *Systèmes
@@ -76,16 +76,16 @@
   * Autres éléments de géographie (ex. Champs d'astéroïdes)
   * Portes de saut vers d'autres systèmes (NB. Le nombre de porte est définit par la carte générale)
 			
-### Gestion des comptes
+## Gestion des comptes
 * Un compte par personne auquel peuvent être reliés plusieurs amiraux
 * Certaines caractéristiques communes aux deux comptes (crédits, compétences, peut-être expérience)
 * Limitation au nombre de compte d'une certaine classe par joueur. TODO: Définir les limitations exactes.
 		
-### Expérience
+## Expérience
 * Le gain d'xp dépend (par exemple, reste à déterminer) de l'xp des autres joueurs actifs, du gain moyen des autres joueurs
 * Respécialisation possible pour un coût en xp
 	
-### Classes. TODO: Trouver un meilleur nom (ex. Division, section, spécialisation)
+## Classes. TODO: Trouver un meilleur nom (ex. Division, section, spécialisation)
 * Les amiraux doivent choisir une classe
 * La classe détermine l'accès aux
   * Compétences
@@ -98,7 +98,7 @@
   * Modules
   * Pas de limitation quant aux compétences
 
-#### Classes
+### Classes
 * Combat
   * Léger
   * Lourd
@@ -117,7 +117,7 @@
   * Ravitaillement (?)
 NB : Les "sous-classes" (ex. Bombardement) sont déterminées par des choix du joueurs (vaisseaux, compétences), mais n'ont pas d'existence officielle.
 		
-### Vaisseaux
+## Vaisseaux
 * Comportent des modules dépendant du type de vaisseau
 * Peuvent être détruits (si pas de modules d'urgence)
 * Système de tonnage
@@ -134,10 +134,10 @@ NB : Les "sous-classes" (ex. Bombardement) sont déterminées par des choix du j
   * ? Vaisseaux de faction
 * ? Possibilité d'avoir des modules à choix
 		
-### Modules
+## Modules
 * Pas par chrono-poste
 * Les modules peuvent être internes ou externes (cf. "Combat")
-#### Modules
+### Modules
 * Coque
   * Protège les modules internes
 * Propulseur
@@ -173,14 +173,14 @@ NB : Les "sous-classes" (ex. Bombardement) sont déterminées par des choix du j
 * ? Bombardement
 * ? Autres
 
-#### A déterminer
+### A déterminer
 * Coût et restrictions
 * Modules de factions
 * Différentes "marques de vaisseaux"
 * Incidents (NB. Pas forcément facile à rendre intéressants)
 * Quels modules sont internes/externes
 	
-### Combat spatial
+## Combat spatial
 * Nécessité d'être sur la même case que le vaisseau qu'on attaque
 * Nécessité de détruire la coque adverse pour pouvoir toucher ses modules internes
   * Syphon (surcharge d'énergie)
@@ -198,14 +198,14 @@ NB : Les "sous-classes" (ex. Bombardement) sont déterminées par des choix du j
 * Combat contre les bases spatiales
   * Traiter les bases spatiales comme des vaisseaux
 
-### Combat planétaire
-#### TODO
+## Combat planétaire
+### TODO
 Tout.
 		
-### Déplacement
+## Déplacement
 * Porte de saut entre les systèmes. TODO : trouver un meilleur nom.
 
-#### Propulseur
+### Propulseur
 * Au sein d'un système
 * Peut être gêné par des cases ou effets spéciaaux (ex. champs d'astéroïde, champs de mines spatiales)
 * Coût et limitations
@@ -214,20 +214,20 @@ Tout.
   * Eventuellement ravitaillement pour propusleurs avancés
 * Avantager le fait d'aller tout droit
 
-#### Pulseur
+### Pulseur
 * Au sein d'un système
 * TODO : principe, temps d'attente avant/après le saut planoforme, risques
 			
-### Constructions
+## Constructions
 
-#### Ressources
+### Ressources
 * TODO : Tout.
 
-#### Constructions sur les planètes
+### Constructions sur les planètes
   * ? Uniquement sur les planètes de la faction
   * ? Quoi
 
-#### Constructions sur les cases spatiales
+### Constructions sur les cases spatiales
 *  Possibilité de nombreuses constructions pour permettre de redéfinir la géographie d'un secteur
 * Mines
 * Bases spatiales
