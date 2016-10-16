@@ -22,18 +22,18 @@ Tous les jours, les troupes de chaque camp passent une attaque simultanée. Les 
 
 ## Augmentation des dégâts
 Chaque jour, après les attaques effectuées par les troupes, toutes les troupes voient leur jet de dégât augmenter en fonction de leur nombre et leur fonction associée (logarithmique/exponentielle). Concrètement :
-+ Exponentielle : `(Dégâts bonus) += Nbr * 2 ^ (jour du combat)`
-+ Logarithme : `(Dégâts bonus) += Nbr * log2(jour du combat)`
++ Exponentielle : `(Multiplicateur dégâts) = nbr_moyen * 2 ^ (jour du combat)`
++ Logarithme : `(Multiplicateur dégâts) = nbr_moyen * log2(jour du combat)`
 
-Avec `(Dégâts finaux) = (Dégâts théoriques) + (Dégâts bonus)`
+Avec `(Dégâts finaux) = (Dégâts théoriques) * (Multiplicateur dégâts)`
+
+Où `nbr_moyen` est la moyenne de la présence de l'unité depuis le début des combats.
 
 Chaque élément `elt` du calcul étant potentiellement remplacé par `f(elt)`, où f est une fonction linéaire (de la forme `y = a * x + b`)
 
 Lorsqu'une troupe tombe à 0 de nombre, son bonus aux dégâts est ramené à 0.
 
 # Combat terrestre - données
-
-*Les valeurs ci-dessous ne sont pas les valeurs finales, et les tests d'équilibrage rapides ne sont pas finis!*
 
 Dégâts:
 + Blindés
@@ -51,5 +51,16 @@ Dégâts:
 
 
 Fonction:
-+ Exponentielle : `bonus += nbr * 2 ^ (jour - 10)`
-+ Logarithmique : `bonus += nbr * log2(jour + 2) /4`
++ Exponentielle : `bonus += nbr_moyen * 2 ^ (jour - 8)`
++ Logarithmique : `bonus += nbr_moyen * log2(jour + 2) /4`
+
+Où `nbr_moyen` est la moyenne de la présence de l'unité depuis le début des combats. Ex:
+- Premier jour : 200 Tanks Exp
+- Deuxième jour : 380 Tanks Exp
+- Troisième jour : 540 Tanks Exp
+
+Au troisième jour, au moment du calcul des dégâts, `nbr_moyen = (200 + 380 + 540) / 3 = 373.33...` 
+
+Les chars auront alors des dégâts de base (non multipliés par le multiplicateur dépendant du type de la troupe adverse) `deg = 373.33 * 2 ^ (3 - 8) = 11.66`
+
+Dans les mêmes circonstances, des Chars Logs feraient `deg = 373.33 * log2(3 + 2) / 4 = 216.52`
