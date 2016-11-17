@@ -172,7 +172,7 @@ modules dissuade de faire le changement lors d'une période de forts conflits
 spatiaux. 
 
 <a name="n3"><sup>3</sup></a>: Avec une esquive (contre un t40) à 5% pour le t40, et 20% pour le t20, 
-ce dernier prendra 24% dégâts de moins par rapport à un t40.
+ce dernier prendra 16% dégâts de moins par rapport à un t40.
 
 <a name="n4"><sup>4</sup></a>: Werewolf, Spearhead, Lynx, Aiguille Fireshaft et Pilote
 
