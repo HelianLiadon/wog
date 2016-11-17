@@ -117,6 +117,32 @@ font que les ralentir, et les rendre plus vulnérables. Les transporteurs et bui
 a priori rares, en raison de l'attrait des soutes de plus haut calibre, sauf si les t80 dépassent
 les t60 en nombre.
 
+## t60
+
+#### Mid game
+Les t60 apparaissent à la fin du mid game, mais seront alors plutôt faibles, car non upgradés,
+et jetés au beau milieu d'une forêt de t40 full upgrades. Le conséquent gain en puissance de feu
+et en endurance des t60 les rendra cependant vite capables de tenir têtes à leurs agresseurs.
+
+Les t60 les plus susceptibles d'apparaître en premier sont l'Assaut léger (Anubis) et Transporteur
+(Treuil-Hégémons), le premier parce qu'il est plus efficace sans grande quantité d'ordres, en comparaison
+avec son homologue Assaut Lourd (Minotaure), et le deuxième en raison de l'éternel avantage des soutes
+et colos croissant avec le tonnage (tentation d'autant plus grande pour un transporteur qu'il gagne en
+mobilité et résistance par rapport au Pryat (même considérés les désavantages du tonnage).
+
+
+#### End game
+Durant l'end game, les t60 sont les vaisseaux classiques, et sont capables de se battre contre les t40
+comme les t80, ce qui les rend précieux. Ils sont tout particulièrement indiqués contre les t40, et 
+globalement plutôt vulnérables face aux t80, en raison de leurs calibres situés entre ces deux classes.
+
+Les t60 sont effectivement l'arme la plus appropriée contre les t40, étant capable de vider leur armement
+supérieur sur ceux-ci sans crainte (esquive de 20% seulement). Malgré leur position d'infériorité face aux
+t80, ils présentent l'avantage de pouvoir se défendre contre eux, surtout si le possesseur du t80 n'est
+pas capable de pleinement manier son armement. Ainsi, durant toute la partie de l'end game où les t80 sont
+absents ou précoces, les t60 règneront, de la même manière que les t40 lors du mid game.
+
+
 ---
 
 <a name="n1"><sup>1</sup></a>: (200% d'un Doomlight, 167% d'un t10 de faction à tourelles cal2)
