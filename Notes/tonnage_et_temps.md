@@ -143,6 +143,26 @@ pas capable de pleinement manier son armement. Ainsi, durant toute la partie de 
 absents ou précoces, les t60 règneront, de la même manière que les t40 lors du mid game.
 
 
+## t80
+
+#### End game
+Les t80 de combat sont des vaisseaux spécialisés dans la destruction de leurs homologues vaisseaux de gros
+tonnage. Leurs cibles de prédilection seront les t60 à la résistance plus faible, ainsi que les t80 de
+transport, qui auront une protection à peu près équivalente, l'esquive en moins.
+
+Les t80 sont des vaisseaux vulnérables à leur sortie, mais un joueur qui parvient à éviter les gros problèmes
+pourra vite obtenir les upgrades (de repair) utiles et s'abriter derrière ses boucliers. Si leur coque et protection
+massives les rend très résistants, leur incapacité à tirer sur des t40 les rend dépendants de leurs alliés si leurs
+adversaires ne sont pas en t60+.
+
+L'assaut léger t80 a une moyenne de dégâts/ordres plus faible que celle de l'assaut lourd, mais une bonne partie de
+ces dégâts peut être atteinte en très peu d'ordres<sup>[8](#n8)</sup>.
+
+Le transport t80 devrait être assez prisé (augmentant ainsi le nombre de t80 de combat), en raison de
+sa soute toujours plus grande (+50% par rapport au t60), de ses meilleures protections, et de son
+module de colonisation toujours meilleur.
+
+
 ---
 
 <a name="n1"><sup>1</sup></a>: (200% d'un Doomlight, 167% d'un t10 de faction à tourelles cal2)
@@ -164,3 +184,6 @@ ce dernier prendra 75% dégâts de moins par rapport à un t60.
 
 <a name="n7"><sup>7</sup></a>: Les vaisseaux à trois propulseurs, et dotés de suffisamment de repair/boucliers,
 donc Spearhead, Fireshaft, Aiguille et Pilote
+
+<a name="n8"><sup>8</sup></a>: Les batteries, ainsi que les canons de bas calibre, sont très couteux, mais les tourelles
+offrent la possibilité de faire beaucoup de dégâts en très peu d'ordres.
