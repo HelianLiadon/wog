@@ -1,5 +1,8 @@
 # Le tonnage au fil d'une partie
 
+__NB__: Je ne commenterai pas les vaisseaux particuliers que sont les 
+siphonneurs et bombardiers.
+
 ## t10
 
 Bon, les t10 sont inutiles en combat, voyons les choses en face. Avec un peu 
@@ -48,6 +51,72 @@ en t20 si leurs adversaires manquent de t40 (qui seraient à même de sérieusem
 les menacer).
 
 
+## t40
+
+#### Early game
+Les t40 sont inaccessibles ou presque en early game, puisqu'un minimum de 10,000 xp 
+est nécessaire pour ne serait-ce que pouvoir les acheter. En revanche, dès ce pallier 
+passé, ils devraient se multiplier rapidement, pour débloquer les DC. La popularisation 
+des t40 marque généralement le début du mid game pour le spatial.
+
+Les premiers t40 à apparaître devraient être des combattants légers et maniables<sup>[4](#n4)</sup>
+puis les transporteurs, et les builders peu upgradés devraient suivre, ne laissant derrière 
+que les builders ne voulant pas dépenser autant de crédits pour passer t40 et reprendre les upgrades,
+ce qui devrait arriver souvent puisque l'early game terrestre tend à être limité par la
+capacité de construction des buileurs.
+
+Un vaisseau de reconnaissance devrait également rester en t20<sup>[5](#n5)</sup> pour
+profiter du bonus d'esquive et de peur de devoir repayer 4 propulseurs plein prix pour 
+retrouver sa vitesse, au détriment du pulseur offert par le Dragonfly.
+
+
+#### Mid game
+Tout comme les t20 auparavant, les t40 sont la norme en mid game, et la présence de t40
+de faction apporte de grands écarts d'efficacité spatiale entre les factions qui sont capables
+d'utiliser pleinement le potentiel de leur vaisseau unique, et celles qui ont des difficultés
+à s'organiser combinées à des vaisseaux peu indépendants (Power, et Kalanda dans une moindre
+mesure).
+
+Un t40 ne sera généralement menacé que par un autre t40, les t20 manquant de puissance de feu
+pour endommager un vaisseau contrôlé par un joueur ayant passé le cap de 10,000 xp, et sa 
+supériorité sur le t20 en calibres d'armement compense l'esquive plus grande. En revanche, un
+t20 est préférable à un t40 pour tirer sur un t10, mais les seuls t10 viables en mid game 
+étant les Blindness (reconnaissance), et Archer et Flarekin (radar), les occasions où tirer sur
+un t10 est nécessaire restent rares. Les chances de toucher étant tout de même à 60%, des t40
+pourront largement se défendre contre une nuée de t10 (DC) les chargeant.
+
+Le mid game devrait voir la majorité des transporteurs passer en t40, mais l'attrait d'un 
+colo de cal2 pourrait se révéler faible pour un builder full upgrade, qui préférerait passer 
+directement au t60.
+
+
+#### End game
+Au début de l'end game, quand les t60 sortis commenceront à être opérationnels, les t40 seront
+malmenés par l'écart conséquent de puissance de feu, et les capacités de protection supérieures
+des t60. L'esquive sera utile, mais pas suffisante contre des t60 en gain constant de puissance.
+
+En revanche, lorsque les t80 sortiront, la situation devrait se renverser: Les t60 deviendront
+vulnérables aux t80 ayant gagné autant de puissance par rapport à eux que eux par rapport aux t40,
+tandis que l'esquive<sup>[6](#n6)</sup> permettra aux t40 d'éviter facilement les dangers
+représentés par les t80.
+
+Au niveau des combattants, les deux types qui devraient être conservés sont 
+l'assaut-vitesse<sup>[7](#n6)</sup> et l'assaut lourd. Le rôle de l'assaut-vitesse sera de
+harceler les t80 en profitant de ses nombreux tirs de tourelles pour faire tomber les boucliers
+de la cible, tout en communiquant régulièrement sa position à ses alliés, pour permettre aux
+plus gros vaisseaux (ou à l'assaut lourd) d'entrer en jeu.
+L'assaut lourd, quant à lui, dispose d'une puissance de feu non négligeable pour un t40, qui 
+rivalise parfois avec celle du t60 (notamment pour le Power), tout en disposant la capacité
+d'esquive propre aux t40. S'il se retrouvera en désavantage face à t60 qui le touchera facilement
+tout en disposant d'une bien meilleure protection, la grande difficulté des t80 à toucher les t40
+permet aux assauts lourds t40 d'infliger de sérieux dégâts aux t80 ouverts sans grande crainte de
+représailles.
+
+Les vaisseaux de reconnaissance resteront généralement en t40, puisque les tonnages supérieurs ne
+font que les ralentir, et les rendre plus vulnérables. Les transporteurs et builders en t40 seront
+a priori rares, en raison de l'attrait des soutes de plus haut calibre, sauf si les t80 dépassent
+les t60 en nombre.
+
 ---
 
 <a name="n1"><sup>1</sup></a>: (200% d'un Doomlight, 167% d'un t10 de faction à tourelles cal2)
@@ -58,3 +127,14 @@ spatiaux.
 
 <a name="n3"><sup>3</sup></a>: Avec une esquive (contre un t40) à 5% pour le t40, et 20% pour le t20, 
 ce dernier prendra 24% dégâts de moins par rapport à un t40.
+
+<a name="n4"><sup>4</sup></a>: Werewolf, Spearhead, Lynx, Aiguille Fireshaft et Pilote
+
+<a name="n5"><sup>5</sup></a>: Sauf pour les OSG, RP et PM qui disposent de t40 de faction rapides,
+puissants et endurants.
+
+<a name="n6"><sup>6</sup></a>: Avec une esquive (contre un t80) à 20% pour le t60, et 80% pour le t40,
+ce dernier prendra 75% dégâts de moins par rapport à un t60.
+
+<a name="n7"><sup>7</sup></a>: Les vaisseaux à trois propulseurs, et dotés de suffisamment de repair/boucliers,
+donc Spearhead, Fireshaft, Aiguille et Pilote
